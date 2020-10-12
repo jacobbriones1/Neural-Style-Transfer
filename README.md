@@ -4,6 +4,7 @@
 
 Neural Style Transfer (NST) can be used to copy the style of one image (a Bob Ross painting)
 to another image (the content image), while maintaining the overall structure of the image. 
+For the original paper describing Neural Style Transfer, see the PDF file located in this repository.
 <center><h3> Turn any landscape photo into a Bob Ross Painting </h3></center>
 
 ##### Content: A picture I took of the Grand Canyon
